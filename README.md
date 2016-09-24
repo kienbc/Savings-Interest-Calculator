@@ -1,7 +1,9 @@
 # Savings-Interest-Calculator
-Windows Programming: Exercise 1
+Windows API Programming: Exercise 1
 
 IDE: Visual Studio 2015 Enterprise
+
+Language: C++
 
 1.Input Amount of money, for example:   1.000.000
 
